@@ -1,0 +1,29 @@
+h4
+{
+    color:darkgreen;
+}
+
+.box {
+    hieght: 100px;
+    border:10px solid black;
+    background-color: rgb(251, 255, 0);
+    padding:20px;
+    width:100px;
+}
+#name{
+    color:blueviolet;
+    font-size:x-large;
+  }
+  p {
+    color: blue;
+  }
+  img {
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+  }
+  .user {
+    font-weight: bold;
+    color: red;
+  }
